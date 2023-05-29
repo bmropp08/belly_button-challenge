@@ -1,1 +1,2 @@
 # belly_button-challenge
+In this challenge there is code that will extract code from a json file, filter the data by a dropdown menu, top ten results. A horizontal bar graph was created and the values will change as the user selects a new option. Also a bubble chart was created using the data, where the size of the bubbles are determined by values and the colors are decided by quantitative data. Also the async function is used so that changes are automatically ran.
